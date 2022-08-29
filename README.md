@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+- 👩 I’m Wania Khan
+- 👀 I’m tech enthusiast and Machine Learning researcher. Recently completed my masters in the field of Green Networking and Cloud Computing. 
+- 🌱 I have strong expertise in data analytics and visualization. I have done quite many projects which I consider can help other students or data enthusiasts like me 🙂
+- 💞️ Are you interested in data science and machine learning? check out my repository. 
+- 📫 Reach out to me on my linkedin account - link given in the profile section. 
+- 😄 Pronouns: She/her
+
+
+
 <!--
 **WaniaKhance/WaniaKhance** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
