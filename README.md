@@ -1,11 +1,12 @@
 ### Hi there 👋
 
-- 👩 I’m Wania Khan
-- 👀 I’m tech enthusiast and Machine Learning researcher. Recently completed my masters in the field of Green Networking and Cloud Computing. 
-- 🌱 I have strong expertise in data analytics and visualization. I have done quite many projects which I consider can help other students or data enthusiasts like me 🙂
-- 💞️ Are you interested in data science and machine learning? check out my repository. 
+- 👩 I’m Wania Khan (She/her)
+- 👀 I’m tech enthusiast and Machine Learning researcher. Recently completed my Masters in Green Networking and Cloud Computing. 
+- 🌱 I have strong expertise in data analytics, data visualization and data modelling. I have done quite many projects which I consider can help other students or data enthusiasts like me 🙂
+- :computer: I am expert in python prgramming but I also have a good grip in C++, Java and SQL. 
+- 💞️ Are you interested in data science and machine learning? check out my repositories. 
 - 📫 Reach out to me on my linkedin account - link given in the profile section. 
-- 😄 Pronouns: She/her
+
 
 
 
