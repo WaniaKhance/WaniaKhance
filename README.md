@@ -30,7 +30,7 @@
 - 👩‍🔬 **Data Science & AI Researcher**: MSc in Green Networking and Cloud Computing | Expertise in advanced data analytics, data visualization, and AI modeling.
 - 🛠️ **Tech Stack**: Python, MATLAB, SQL, C++, Java | Machine Learning & Deep Learning | PowerBI, Tableau
 - 🏆 **Honors**: Erasmus Mundus Scholarship | Silver Medal for Academic Excellence in Bachelor's
-- 🔬 **Research Focus**: Smart Grid optimization, AI-driven voltage estimation, Data Center energy management
+- 🔬 **Research Focus**: Smart Grid optimization, AI-driven techniques for data analytics, Data Center energy management
 - 📊 **Projects**: Check out my repositories for ML/DL projects in energy forecasting, sign language translation, and more!
 - 🌱 **Currently**: Researcher at Chalmers University of Technology, working on Smart Grid intelligence
 - 📫 **Connect**: Reach out to me on LinkedIn (link in profile) for collaborations or discussions on data science and machine learning!
